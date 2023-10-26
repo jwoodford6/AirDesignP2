@@ -1,0 +1,40 @@
+
+ ---------------------------------------------
+ Run case  1:  Cruise
+
+ alpha        ->  alpha       = 0
+ beta         ->  beta        = 0
+ pb/2V        ->  pb/2V       = 0
+ qc/2V        ->  qc/2V       = 0
+ rb/2V        ->  rb/2V       = 0
+
+ alpha     =             0 deg
+ beta      =             0 deg
+ pb/2V     =             0 
+ qc/2V     =             0 
+ rb/2V     =             0 
+ CL        =             0 
+ CDo       =             0 
+ bank      =             0 deg
+ elevation =             0 deg
+ heading   =             0 deg
+ Mach      =           0.7 
+ velocity  =       681.020 ft/s
+ density   =      0.000737 slug/ft^3
+ grav.acc. =         32.17 ft/s^2
+ turn_rad. =             0 ft
+ load_fac. =             1 
+ X_cg      =             0 ft
+ Y_cg      =             0 ft
+ Z_cg      =             0 ft
+ mass      =       18648.6 slug
+ Ixx       =             0 slug-ft^2
+ Iyy       =             0 slug-ft^2
+ Izz       =             0 slug-ft^2
+ Ixy       =             0 slug-ft^2
+ Iyz       =             0 slug-ft^2
+ Izx       =             0 slug-ft^2
+ visc CL_a =             0 
+ visc CL_u =             0 
+ visc CM_a =             0 
+ visc CM_u =             0 
